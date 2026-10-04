@@ -158,13 +158,13 @@ h1 span{color:var(--purple)}
   margin-bottom: 28px;
 }
 
-.footer-divider {
+footer-divider {
   width: 70px;
   height: 3px;
-  background: #c5a477;
+  background: #280c3e;
   margin: 0 auto 25px;
   border-radius: 5px;
-}
+  }
 
 .footer-project {
   font-size: 0.95rem;
