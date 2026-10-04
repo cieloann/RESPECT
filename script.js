@@ -121,6 +121,127 @@ const questions = [
     ],
     correct: 1,
     explanation: "Respecting boundaries and considering the impact of online actions supports a safer community."
+  },
+  {
+    q: "A class group chat makes insulting comments about a student's gender expression. What is the best response?",
+    a: [
+      "Add laughing emojis so you fit in.",
+      "Forward the comments to other groups.",
+      "Do not join in, support the targeted student, and report the abuse when appropriate.",
+      "Tell the student they should leave school."
+    ],
+    correct: 2,
+    explanation: "Do not amplify harassment. Offer support and use suitable reporting channels."
+  },
+  {
+    q: "Someone asks you to send an intimate photo and keeps pressuring you after you say no. What matters most?",
+    a: [
+      "You must agree if they are your partner.",
+      "Your boundary and consent must be respected.",
+      "You should send one to stop the messages.",
+      "You should feel guilty for refusing."
+    ],
+    correct: 1,
+    explanation: "Consent must be freely given. Pressure, threats, or a relationship do not remove your right to say no."
+  },
+  {
+    q: "You see a sexist meme targeting a classmate being shared widely. What should you do?",
+    a: [
+      "Share it before it gets deleted.",
+      "Comment on the classmate's appearance.",
+      "Avoid sharing it, report it if appropriate, and check on the person targeted.",
+      "Save it to use against them later."
+    ],
+    correct: 2,
+    explanation: "Refusing to spread harmful content can reduce its reach and help protect the person targeted."
+  },
+  {
+    q: "Which statement about online harassment is true?",
+    a: [
+      "It is harmless if it happens after class.",
+      "It only matters if the target replies.",
+      "It can affect a person's safety, well-being, and participation online.",
+      "It is always acceptable when posted anonymously."
+    ],
+    correct: 2,
+    explanation: "Online harassment can have real consequences, even when it happens through a screen or anonymous account."
+  },
+  {
+    q: "A friend shares screenshots of a private conversation without permission to embarrass someone. What is a respectful choice?",
+    a: [
+      "Repost the screenshots publicly.",
+      "Ask them to stop spreading private content and respect the person's privacy.",
+      "Edit the screenshots to make them more entertaining.",
+      "Tag more people so they can judge it."
+    ],
+    correct: 1,
+    explanation: "Private conversations should be handled carefully. Do not spread them to shame or harass someone."
+  },
+  {
+    q: "A person experiencing online harassment is not ready to make a public report. How can you support them?",
+    a: [
+      "Post their story without asking.",
+      "Force them to confront the harasser.",
+      "Listen without blaming them and discuss safe options while respecting their choices.",
+      "Tell everyone they are exaggerating."
+    ],
+    correct: 2,
+    explanation: "Support the person's agency and privacy. Help them explore options without pressuring them."
+  },
+  {
+    q: "What is a safer way to respond to a threatening direct message?",
+    a: [
+      "Arrange to meet the sender alone.",
+      "Threaten them back with worse messages.",
+      "Keep evidence, use platform safety tools, and seek trusted or official help if needed.",
+      "Publish your home address to prove you are not afraid."
+    ],
+    correct: 2,
+    explanation: "Prioritize safety, preserve relevant evidence, block or report the account when appropriate, and seek help for threats."
+  },
+  {
+    q: "Which action shows bystander responsibility when you witness online harassment?",
+    a: [
+      "Stay safe, avoid amplifying the abuse, and report or support the target when appropriate.",
+      "Join in so the harasser does not target you.",
+      "Share the post for entertainment.",
+      "Tell the target they caused it."
+    ],
+    correct: 0,
+    explanation: "Bystanders can help without escalating the situation by reporting, offering support, and not spreading harmful content."
+  },
+  {
+    q: "Why should you think before posting a comment about someone's body or gender?",
+    a: [
+      "Because every comment must be popular.",
+      "Because unwanted sexual or sexist remarks can harm others and may cross boundaries.",
+      "Because only celebrities deserve privacy.",
+      "Because online comments never have consequences."
+    ],
+    correct: 1,
+    explanation: "Consider consent, dignity, and the possible impact of your words before posting."
+  },
+  {
+    q: "What should you do if an account is sharing someone's personal information to intimidate them?",
+    a: [
+      "Share the information again to warn others.",
+      "Contact the account to ask for more private details.",
+      "Avoid spreading the information, preserve evidence safely, and report the post or seek help.",
+      "Post your own private information in response."
+    ],
+    correct: 2,
+    explanation: "Do not amplify exposed personal information. Save relevant evidence safely and report the incident or seek appropriate support."
+  },
+  {
+    q: "Which is the best example of consent in digital communication?",
+    a: [
+      "Assuming silence means yes.",
+      "Sharing someone's photo because you are friends.",
+      "Checking permission before posting or forwarding personal content.",
+      "Ignoring a request to remove a photo."
+    ],
+    correct: 2,
+    explanation: "Ask permission before sharing personal content and respect requests to keep it private or remove it."
   }
 ];
 
