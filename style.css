@@ -123,3 +123,87 @@ h1 span{color:var(--purple)}
   .stat-number{font-size:2.8rem}.quiz-box{padding:27px 22px}.quiz-intro h2{font-size:2.1rem}.action-copy h2{font-size:2.4rem}
   .phone-card{width:245px}.floating-card{font-size:.68rem}
 }
+/* ===== FOOTER ===== */
+.site-footer {
+  background: #172b29;
+  color: #f7f5ef;
+  padding: 55px 20px 25px;
+  text-align: center;
+  border-top: 4px solid #c5a477;
+}
+
+.footer-content {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.footer-brand {
+  display: inline-block;
+  font-size: 2rem;
+  font-weight: 800;
+  letter-spacing: 2px;
+  color: #ffffff;
+  text-decoration: none;
+  margin-bottom: 12px;
+}
+
+.footer-brand span {
+  color: #d8b98c;
+}
+
+.footer-tagline {
+  color: #d5dfd9;
+  font-size: 0.95rem;
+  line-height: 1.8;
+  margin-bottom: 28px;
+}
+
+.footer-divider {
+  width: 70px;
+  height: 3px;
+  background: #c5a477;
+  margin: 0 auto 25px;
+  border-radius: 5px;
+}
+
+.footer-project {
+  font-size: 0.95rem;
+  line-height: 1.8;
+  margin-bottom: 12px;
+}
+
+.footer-project strong {
+  color: #e0c49b;
+}
+
+.footer-credits {
+  color: #d5dfd9;
+  font-size: 0.9rem;
+  line-height: 1.8;
+  margin-bottom: 25px;
+}
+
+.footer-copy {
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+  padding-top: 20px;
+  color: #b8c5bf;
+  font-size: 0.8rem;
+  line-height: 1.7;
+  margin-bottom: 0;
+}
+
+@media (max-width: 600px) {
+  .site-footer {
+    padding: 40px 18px 22px;
+  }
+
+  .footer-brand {
+    font-size: 1.7rem;
+  }
+
+  .footer-tagline,
+  .footer-project,
+  .footer-credits {
+    font-size: 0.85rem;
+  }
+}
