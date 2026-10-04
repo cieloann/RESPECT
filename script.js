@@ -232,17 +232,6 @@ const questions = [
     correct: 2,
     explanation: "Do not amplify exposed personal information. Save relevant evidence safely and report the incident or seek appropriate support."
   },
-  {
-    q: "Which is the best example of consent in digital communication?",
-    a: [
-      "Assuming silence means yes.",
-      "Sharing someone's photo because you are friends.",
-      "Checking permission before posting or forwarding personal content.",
-      "Ignoring a request to remove a photo."
-    ],
-    correct: 2,
-    explanation: "Ask permission before sharing personal content and respect requests to keep it private or remove it."
-  }
 ];
 
 let currentQuestion = 0;
